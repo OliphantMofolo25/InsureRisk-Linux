@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_InsureRiskLinux_FILE /home/oliph/projects/InsureRisk-Linux/build/InsureRiskLinux)
+set(__QT_DEPLOY_TARGET_InsureRiskLinux_TYPE EXECUTABLE)
